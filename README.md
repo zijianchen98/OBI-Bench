@@ -9,7 +9,7 @@
 <h1>OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones? 🔍</h1>
 
 
-_The first attempt to apply large multimodal models in paleography and archaeology._
+_The first attempt to apply large multimodal models in paleography and archaeology_
 
 <div>
     <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=NSR4UkMAAAAJ" target="_blank">Zijian Chen</a><sup>1</sup>,
