@@ -22,11 +22,11 @@ _The first attempt to apply large multimodal models in paleography and archaeolo
   <sup>1</sup>Institute of Image Communication and Information Processing, Shanghai Jiao Tong University
   
   <sup>2</sup>School of Humanities, Shanghai Jiao Tong University
+
+  <sup>*</sup>Corresponding authors 
 </div>   
 
-<div>
-<sup>*</sup>Corresponding authors 
-</div>
+
 
 中文版速递：[知乎](xxxx)
 
