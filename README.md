@@ -140,11 +140,16 @@ We select **23** up to date and prevailing LMMs for evaluation including **6** p
 ## Original Oracle Bone Recognition (O2BR) Dataset 📦
 - [ ] To be released
 
+<div style="width: 80%; text-align: center; margin:auto;">
+      <img style="width:100%" src="figure/O2BR.png">
+  </div>
 
 ## OBI-rejoin Dataset 📦
 - [ ] To be released
 
-
+<div style="width: 80%; text-align: center; margin:auto;">
+      <img style="width:100%" src="figure/OBI-rejoin-vis.jpg">
+  </div>
 
 
 ## Contact 📧
