@@ -28,7 +28,7 @@ _The first attempt to apply large multimodal models in paleography and archaeolo
 
 
 
-中文版速递：[知乎](xxxx)
+中文版速递：[知乎](https://zhuanlan.zhihu.com/p/10309270594)
 
 
 
