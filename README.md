@@ -33,7 +33,7 @@ _The first attempt to apply large multimodal models in paleography and archaeolo
 
 
 <div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:100%" src="intro.jpg">
+      <img style="width:100%" src="figure/intro.jpg">
   </div>
 
 </div>
@@ -43,35 +43,69 @@ _The first attempt to apply large multimodal models in paleography and archaeolo
 ## Release
 - [2024/12/2]  🔥[Github repo](https://github.com/zijianchen98/OBI-Bench) for **OBI-Bench** is online.
 
+## Image Sources
+We 
+
+## Benchmark Candidates
+We select **23** up to date and prevailing LMMs for evaluation including **6** proprietary LMMs and **17** open-source LMMs. 
 
 
-## Original Oracle Bone Recognition (O2BR) Dataset
+## Performance Benchmark on Five OBI Tasks 
+
+<details close>
+<summary>Results on the recognition tasks (click to expand)</summary>
+
+<div style="width: 70%; text-align: center; margin:auto;">
+      <img style="width:100%" src="figure/results_recognition.jpg">
+  </div>
+</details>
+
+<details close>
+<summary>Results on the rejoining tasks (click to expand)</summary>
+
+<div style="width: 70%; text-align: center; margin:auto;">
+      <img style="width:100%" src="figure/results_rejoining.jpg">
+  </div>
+</details>
+
+<details close>
+<summary>Results on the classification tasks (click to expand)</summary>
+
+<div style="width: 70%; text-align: center; margin:auto;">
+      <img style="width:100%" src="figure/results_classification.jpg">
+  </div>
+
+- Effects of the number of character categories on classification accuracy:
+<div style="width: 40%; text-align: center; margin:auto;">
+      <img style="width:100%" src="figure/Acc_class.jpg">
+  </div>
+</details>
+
+<details close>
+<summary>Results on the retrieval tasks (click to expand)</summary>
+
+<div style="width: 70%; text-align: center; margin:auto;">
+      <img style="width:100%" src="figure/results_classification.jpg">
+  </div>
+</details>
+
+## Original Oracle Bone Recognition (O2BR) Dataset 📦
 
 
 
-## OBI-rejoin Dataset
+## OBI-rejoin Dataset 📦
 xxx
 
 
 
 
-## Performance Benchmark on Five OBI Tasks
-xxxx
-
-
-xxx
-
-
-
-
-
-## Contact
+## Contact 📧
 
 Please contact the first author of this paper for queries.
 
 - Zijian Chen, `zijian.chen@sjtu.edu.cn`
 
-## Citation
+## Citation📎
 If you find our work interesting, please feel free to cite our paper:
 ```
 @misc{chen2024obibench,
@@ -84,3 +118,6 @@ If you find our work interesting, please feel free to cite our paper:
       url={https://arxiv.org/abs/2412.01175}, 
 }
 ```
+
+## <a name="acknowledgements"></a> Acknowledgements💡
+
