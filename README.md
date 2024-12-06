@@ -161,16 +161,6 @@ Please contact the first author of this paper for queries.
 ## Citation📎
 If you find our work interesting, please feel free to cite our paper:
 ```
-@misc{chen2024obibench,
-      title={OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?}, 
-      author={Zijian Chen and Tingzhu Chen and Wenjun Zhang and Guangtao Zhai},
-      year={2024},
-      eprint={2412.01175},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.01175}, 
-}
-or
 @article{chen2024obi,
   title={OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?},
   author={Chen, Zijian and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
