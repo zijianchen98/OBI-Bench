@@ -170,6 +170,13 @@ If you find our work interesting, please feel free to cite our paper:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2412.01175}, 
 }
+or
+@article{chen2024obi,
+  title={OBI-Bench: Can LMMs Aid in Study of Ancient Script on Oracle Bones?},
+  author={Chen, Zijian and Chen, Tingzhu and Zhang, Wenjun and Zhai, Guangtao},
+  journal={arXiv preprint arXiv:2412.01175},
+  year={2024}
+}
 ```
 
 ## <a name="acknowledgements"></a> Acknowledgements💡
