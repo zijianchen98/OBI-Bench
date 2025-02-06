@@ -41,6 +41,7 @@ _The first attempt to apply large multimodal models in paleography and archaeolo
 > Overview of the **OBI-Bench**: OBI-Bench presents five in-process tasks: **_1) recognition:_** locating dense oracle bone characters from original oracle bone or rubbings; **_2) rejoining:_** reconstructing fragmented text fragments into coherent texts; **_3) classification:_** categorizing individual characters into their respective meanings; **_4) retrieval:_** returning relevant results according to the given query OBI images; **_5) deciphering:_** interpreting the OBI for historical and cultural investigation.
 
 ## Release
+- [2025/1/23] 🔥🔥🔥 OBI-Bench is accepted by ICLR 2025.
 - [2024/12/2]  🔥[Github repo](https://github.com/zijianchen98/OBI-Bench) for **OBI-Bench** is online.
 
 
